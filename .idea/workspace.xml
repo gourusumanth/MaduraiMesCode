@@ -177,7 +177,7 @@
       <workItem from="1546875674153" duration="915000" />
       <workItem from="1546876614678" duration="15412000" />
       <workItem from="1547597222877" duration="3688000" />
-      <workItem from="1547601727789" duration="1328000" />
+      <workItem from="1547601727789" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="Added new items to the menu">
       <created>1546962400693</created>
@@ -207,11 +207,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547602989137</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactored the spacing in Rice&amp;Biryani Menu">
+      <created>1547603063782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547603063782</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22043000" />
+    <option name="totallyTimeSpent" value="22056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-18" y="-18" width="3876" height="2076" extended-state="6" />
